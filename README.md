@@ -7,5 +7,5 @@ Created an cryptocurrecny app using an Reactjs , REST API , Redux Toolkit
 # Current Price 
 ![Screenshot (11)](https://github.com/DaneshwarKumar/Crypto-App/assets/120198268/27f78fa2-3b23-4d99-b133-6fb2723bbb5b)
 
-# Contact List
+# Curency List
 ![Screenshot (10)](https://github.com/DaneshwarKumar/Crypto-App/assets/120198268/fc81bcb4-9cd6-485e-866e-72b2a94225b8)
